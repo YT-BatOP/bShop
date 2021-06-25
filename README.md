@@ -1,6 +1,8 @@
 # bShop
 Shop Illégal avec Peds. Vous pouvez changé la position du peds et du menu dans le client.lua.
 
+Vidéo : https://streamable.com/gwssz4
+
 ## Requirements
 * Chargeur - https://github.com/gregos1810/esx_clip
 * Système de Cagoule - https://github.com/DAYBR3AK1999/cagoule
